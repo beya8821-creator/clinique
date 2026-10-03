@@ -1,0 +1,7 @@
+.env.local
+.env.*.local
+next-app/.env.local
+next-app/.env.*.local
+next-app/node_modules/
+next-app/.next/
+
